@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//created by dependra basnet
+//email:dependrabas@gmail.com
 #define MAX_PROCESSES 10
 #define NO_ARRIVAL_TIME -1  
 
